@@ -12,3 +12,7 @@ My Goal is to became a Front-End Developer.
 * Java
 ## Expeience
 I currently don't have any experience
+## Education
+RS School, JavaRush, FreeCodeCamp
+## English
+My English level is [C1](https://www.efset.org/cert/dbBwbZ)
