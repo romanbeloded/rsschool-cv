@@ -20,3 +20,9 @@ let isAnagram = function(test, original) {
   original.toLowerCase().split('').sort().join('');
 };
 ```
+## Experience
+Currently i don't have any experience in web development.
+## Education
+RS School, JavaRush, FreeCodeCamp, Udemy, Udacity.
+## English
+My English level is A2.
